@@ -21,4 +21,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshchotaliya7&" alt="harshchotaliya7" /></p>
 
-![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/harshchotaliya7/harshchotaliya7/blob/output/github-contribution-grid-snake.svg)
