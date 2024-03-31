@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.freepik.com/free-vector/semiconductor-electronic-components-isometric-composition_6169441.htm#query=embedded%20system&position=0&from_view=keyword&track=ais&uuid=bca460bb-8c54-4280-b7e0-6589f3a2063c"  />
+<img align="right" height="150" src=""  />
 
 ###
 
