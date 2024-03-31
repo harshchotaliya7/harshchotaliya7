@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshchotaliya7&label=Profile%20views&color=0e75b6&style=flat" alt="harshchotaliya7" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshchotaliya7" alt="harshchotaliya7" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshchotaliya7" alt="harshchotaliya7"&theme=dracula /></a> </p>
 
 <p align="center"> 📫 How to reach me **harshchotaliya7@gmail.com** </p>
 
@@ -20,6 +20,4 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshchotaliya7&show_icons=true&locale=en" alt="harshchotaliya7" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshchotaliya7&" alt="harshchotaliya7" /></p>
-
-![Snake animation](https://github.com/harshchotaliya7/harshchotaliya7/blob/output/github-contribution-grid-snake.svg)
 
