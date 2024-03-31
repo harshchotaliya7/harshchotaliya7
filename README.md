@@ -2,8 +2,6 @@
 ####  Greetings! I'm Harsh Chotaliya, deeply entrenched in the world of Embedded Systems. With experience in bare metal device driver and safety-critical firmware development, I'm on a mission to harness the full potential of embedded technology. Let's embark on this journey together and explore the endless possibilities within this fascinating domain!
 ![ Greetings! I'm Harsh Chotaliya, deeply entrenched in the world of Embedded Systems. With experience in bare metal device driver and safety-critical firmware development, I'm on a mission to harness the full potential of embedded technology. Let's embark on this journey together and explore the endless possibilities within this fascinating domain!](https://img.freepik.com/free-vector/semiconductor-electronic-components-isometric-composition_1284-23812.jpg?size=626&ext=jpg&ga=GA1.1.935672358.1711868215&semt=ais)
 
-Greetings! I'm Harsh Chotaliya, deeply entrenched in the world of Embedded Systems. With experience in bare metal device driver and safety-critical firmware development, I'm on a mission to harness the full potential of embedded technology. Let's embark on this journey together and explore the endless possibilities within this fascinating domain!
-
 Skills: Embedded C / C++, Bare metal device driver development, Firmware Development, Safety Critical Architecture Des
 
 
