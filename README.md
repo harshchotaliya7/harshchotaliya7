@@ -1,20 +1,42 @@
-### Hi there 👋, my name is Harsh Chotaliya
-####  Greetings! I'm Harsh Chotaliya, deeply entrenched in the world of Embedded Systems. With experience in bare metal device driver and safety-critical firmware development, I'm on a mission to harness the full potential of embedded technology. Let's embark on this journey together and explore the endless possibilities within this fascinating domain!
-![ Greetings! I'm Harsh Chotaliya, deeply entrenched in the world of Embedded Systems. With experience in bare metal device driver and safety-critical firmware development, I'm on a mission to harness the full potential of embedded technology. Let's embark on this journey together and explore the endless possibilities within this fascinating domain!](https://img.freepik.com/free-vector/semiconductor-electronic-components-isometric-composition_1284-23812.jpg?size=626&ext=jpg&ga=GA1.1.935672358.1711868215&semt=ais)
+<h3 align="center">Hi 👋! My name is Harsh Chotaliya and I'm passionate about Embedded system from India.</h3>
 
-Skills: Embedded C / C++, Bare metal device driver development, Firmware Development, Safety Critical Architecture Des
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshchotaliya7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=harshchotaliya7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshchotaliya7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
+###
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/harshchotaliya7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/harshchotaliya/)  
+<img align="right" height="150" src="https://www.freepik.com/free-vector/semiconductor-electronic-components-isometric-composition_6169441.htm#query=embedded%20system&position=0&from_view=keyword&track=ais&uuid=bca460bb-8c54-4280-b7e0-6589f3a2063c"  />
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshchotaliya7)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=harshchotaliya7&show_icons=true&count_private=true)  
+###
 
-![GitHub metrics](https://metrics.lecoq.io/harshchotaliya7)  
+<div align="center">
+  <a href="harshchotaliya7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/harshchotaliya" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=harshchotaliya7)  
+###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/harshchotaliya7/harshchotaliya7/output/snake.svg" alt="Snake animation" />
+
+###
