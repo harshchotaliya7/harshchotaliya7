@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harsh Chotaliya</h1>
 <h3 align="center">A passionate Embedded System Developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=harshchotaliya7&label=Profile%20views&color=0e75b6&style=flat" alt="harshchotaliya7" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=harshchotaliya7&label=Profile%20views&color=0e75b6&style=darkhub" alt="harshchotaliya7" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshchotaliya7" alt="harshchotaliya7"&theme=dracula /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshchotaliya7" alt="harshchotaliya7" /></a> </p>
 
 <p align="center"> 📫 How to reach me **harshchotaliya7@gmail.com** </p>
 
