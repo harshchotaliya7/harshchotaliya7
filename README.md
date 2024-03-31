@@ -3,8 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshchotaliya7&label=Profile%20views&color=0e75b6&style=darkhub" alt="harshchotaliya7&theme=github_dark" /> </p>
 
-<p align="center"> <a href=https://github-readme-stats.vercel.app/api?username=harshchotaliya7&theme=dark&show_icons=true)</a> </p>
-
+p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshchotaliya7" alt="harshchotaliya7&theme=onedark" /></a> </p>
 <p align="center"> 📫 How to reach me **harshchotaliya7@gmail.com** </p>
 
 <h3 align="center">Connect with me:</h3>
