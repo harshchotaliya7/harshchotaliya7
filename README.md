@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshchotaliya7" alt="harshchotaliya7&theme=onedark" /></a> </p>
 <p align="center"> 📫 How to reach me - **harshchotaliya7@gmail.com** </p>
 
-#### Greetings! I'm Harsh Chotaliya, deeply entrenched in the world of Embedded Systems. With experience in bare metal device driver and safety-critical firmware development, I'm on a mission to harness the full potential of embedded technology. Let's embark on this journey together and explore the endless possibilities within this fascinating domain!
+<p align="center"> Greetings! I'm Harsh Chotaliya, deeply entrenched in the world of Embedded Systems. With experience in bare metal device driver and safety-critical firmware development, I'm on a mission to harness the full potential of embedded technology. Let's embark on this journey together and explore the endless possibilities within this fascinating domain! </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
